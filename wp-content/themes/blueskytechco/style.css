@@ -1,0 +1,71 @@
+.woocommerce ul.products li.product .add_to_cart_button {
+    display: none !important;
+}
+
+.eael-grid-post-excerpt,
+.pt-cv-ifield {
+    text-align: center;
+}
+
+.pt-cv-title a {
+    margin-top: 27px;
+}
+
+.pt-cv-title a,
+.woocommerce-product-details__short-description p,
+.pt-cv-content,
+.pt-cv-readmore {
+    color: #222222;
+    font-family: "a-markprobook", Sans-serif;
+}
+
+.pt-cv-content .pt-cv-readmore {
+    border: 2px solid black;
+    border-radius: 3px;
+    padding: 9px 25px;
+}
+
+.elementor-field-group #submitEmail span {
+    padding: 10px 0
+}
+
+.elementor-239 .elementor-element.elementor-element-e8d5c83 .menu-item a.hfe-menu-item,
+.elementor-239 .elementor-element.elementor-element-f70e3e3 .menu-item a.hfe-menu-item {
+    padding-left: 0 !important;
+}
+
+.elementor-field-type-email {
+    width: 80% !important;
+}
+
+.elementor-field-type-email input {
+    border: none !important;
+    border-bottom: 2px solid black !important;
+}
+
+.elementor-form-fields-wrapper,
+.elementor-text-editor {
+    margin: 0 auto !important;
+}
+
+.elementor-form-fields-wrapper {
+    width: 42%;
+}
+
+.woocommerce-product-details__short-description p {
+    font-size: 16px;
+    font-weight: bold;
+    margin: 0 0 13px 0;
+}
+
+.product {
+    margin-top: 4px !important;
+}
+
+.woocommerce-loop-product__title {
+    margin-top: 37px !important;
+}
+
+.elementor-text-editor {
+    width: 48% !important;
+}
